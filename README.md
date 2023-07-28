@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aleks-and-r
 - 👀 I’m interested in frontend development. 
-- 🌱 I’m currently learning react
+- 🌱 I’m JS and React developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
